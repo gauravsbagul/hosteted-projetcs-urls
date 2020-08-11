@@ -30,14 +30,12 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
 <br />
 
 ### Projects I have worked on
 
-React Native 
   [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> STEMuli Android](https://play.google.com/store/apps/details?id=com.stemuli&hl=en_US)
 
   [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> STEMuli IOS](https://apps.apple.com/us/app/stemuli/id1483444831)
@@ -48,8 +46,8 @@ React Native
 
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Whole chain](https://dashboard.wholechain.com/)
 
-  [<img align="left" alt="go | Go" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />](https://www.oncopower.org/)
+  [<img align="left" alt="go | Go" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /> Onco Power](https://www.oncopower.org/)
 
-  [<img align="left" alt="react-native | Go" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Latest news](https://voice-command-news-app.herokuapp.com/)
+  [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Latest news](https://voice-command-news-app.herokuapp.com/)
   
-  [<img align="left" alt="react-native | Go" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Poketimes](https://poketimes-app.herokuapp.com/)
+  [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Poketimes](https://poketimes-app.herokuapp.com/)
