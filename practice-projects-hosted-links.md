@@ -7,11 +7,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn as much as possible
 
 ### Connect with me:
-[<img align="left" alt="phone | Phone" width="22px" src="https://img.icons8.com/carbon-copy/100/000000/phonelink-ring.png"/>](9604374093)
-[<img align="left" alt="gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](gauravsbagul@gmail.com)
+Mob: 9604374093
+Email: gauravsbagul@gmail.com
+
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/gauravsbagul/)
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gauravsbagul/)
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gauravsbagul/)
+
 
 <br />
 <br />
